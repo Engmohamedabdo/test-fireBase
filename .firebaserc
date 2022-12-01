@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-fire-820c0": {
+      "hosting": {
+        "login-fireBase": [
+          "login-fire-820c0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-fire-820c0"
+  }
+}
